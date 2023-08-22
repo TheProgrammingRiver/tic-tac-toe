@@ -50,7 +50,7 @@ body {
 .borad {
   background-color: #000000;
   color: #ffffff;
-  border: 6px solid #5285bf;
+  border: 6px solid #000000;
   grid-template: repeat(3, 1fr) / repeat(3, 1fr);
   width: 470px;
   height: 470px;
@@ -60,7 +60,7 @@ body {
 }
 
 .circle {
-  border: 6px solid #5285bf;
+  border: 6px solid #695896;
   border-radius: 50%;
   font-family: cursive;
   font-weight: bold;
