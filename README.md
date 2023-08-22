@@ -1,9 +1,10 @@
 
 # Project: Tic Tac Toe
 
-## Preview
+## Wireframe
 ![Wireframe](m.jpeg)
 
+## Preview
 Experience the classic game of Tic Tac Toe with a modern twist. Dive into a visually captivating interface with dynamic background colors that change with every move. Be enthralled by the wiggling title animation and enjoy the game with well-defined status messages.
 
 ## Technology Used
